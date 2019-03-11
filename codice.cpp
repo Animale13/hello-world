@@ -8,6 +8,7 @@ int main(){
   cout<<"ciao";
   for(int i=0; i<10; i++){
     cout<<"mamma";
+    cout<<"Linea cambiata";
   }
  }
 
